@@ -8,4 +8,4 @@ def test_calculation_multiplication():
     multiplication = Multiplication(mynumbers)
     #Act
     #Assert
-    assert multiplication.get_result() == -3
+    assert multiplication.get_result() == 2.0
