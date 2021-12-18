@@ -26,11 +26,11 @@
 ### ![childdivision](https://user-images.githubusercontent.com/90408079/146658157-7c682939-017e-45c6-8acc-6a603af7a27c.PNG)
 
 ## Pylint Passed:
-### ![image](https://user-images.githubusercontent.com/90408079/146658120-337f6c1f-f59b-49ce-b7b5-ff328a0fb202.png)
+### ![pylintpassed1](https://user-images.githubusercontent.com/90408079/146658240-80edd7ef-181c-4a2a-8eda-ddfacd0a049c.PNG)
+### ![pylintpassed2](https://user-images.githubusercontent.com/90408079/146658242-029c635c-82de-4edf-b91d-1cf2363c0098.PNG)
 
 ## Pytest Passed:
-### ![image](https://user-images.githubusercontent.com/90408079/146658116-3268a8df-b573-4f53-9f27-af57ce07cb6d.png)
-### ![image](https://user-images.githubusercontent.com/90408079/146658124-1c527e5d-2aa8-45f6-8248-d5ecd21b1dc8.png)
+### ![pytestpassed](https://user-images.githubusercontent.com/90408079/146658245-ed94ead2-04fc-4f83-a250-fc61e982bfba.PNG)
 
 ## History of Commits:
-### ![image](https://user-images.githubusercontent.com/90408079/146658117-096dd239-7f5a-49b0-8435-1399f04fea13.png)
+### ![commithistory](https://user-images.githubusercontent.com/90408079/146658224-a2f2a346-7973-40ba-a7af-98fafb64ba7b.png)
