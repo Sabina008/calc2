@@ -6,8 +6,10 @@
 ### You must have a parent class of calculation with child classes for each type of calculation.  The parent class calculation must store value A and Value B and it needs to have a factory to create objects.   You need to make the child classes perform the operations.
 ### You need to have tests for calculation, addition, subtraction, division, multiplication, and for each method of the calculator to get your coverage to 100%
 
-## Static method for Division added to code:
-### ![image](https://user-images.githubusercontent.com/90408079/146658132-0e4912f5-6a2a-421e-9af4-63064858a3b0.png)
+## Static methods:
+### ![staticmethod1](https://user-images.githubusercontent.com/90408079/146658620-ce073cd5-9ba8-46a8-ad40-6a0896b73d7b.PNG)
+### ![staticmethod2](https://user-images.githubusercontent.com/90408079/146658624-90f52393-0bab-43c2-baf9-3b41589f72a5.PNG)
+### ![staticmethod3](https://user-images.githubusercontent.com/90408079/146658630-de43a444-f38a-4917-a90e-4d89cd11e0f9.PNG)
 
 ## Division.py file:
 ### ![image](https://user-images.githubusercontent.com/90408079/146658127-10be1af1-a6b9-430a-a584-0c36d8445ca2.png)
